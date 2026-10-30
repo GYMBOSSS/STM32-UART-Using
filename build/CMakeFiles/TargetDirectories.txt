@@ -1,0 +1,3 @@
+C:/stm/stm32-uart-using/build/CMakeFiles/stm32-uart-using.dir
+C:/stm/stm32-uart-using/build/CMakeFiles/edit_cache.dir
+C:/stm/stm32-uart-using/build/CMakeFiles/rebuild_cache.dir
